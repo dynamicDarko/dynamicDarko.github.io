@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto:ital,wght@0,100;1,100&display=swap');
 
 body {
+    background-image: url('images/Promo\ tiketi\ izgled.jpg');
     width: 1600px;
     height: 900px;
     background-color: #000000;
